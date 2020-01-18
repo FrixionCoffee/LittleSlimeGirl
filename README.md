@@ -3,6 +3,11 @@
 # Japanese
 私はgithubとjavaの初心者です
 
+このMODの使用または使用の検討から生じる損害については、使用者が単独で責任を負います。
+私は補償しません
+責任がない
+自己責任
+
 これにより、MinecraftのLittle Maid Modにマルチモデルが追加されます
 スライムガール
 
@@ -16,12 +21,18 @@ Minecraftサーバーを導入しないでください！
 これらは非常に読みにくいコードです
 ********************************
 このMODを導入することでリトルスライムガールがリトルメイドで追加されます
+このMODを利用したことによって生ずるいかなる損害に対しても一切責任を負いません
 
 商用利用、マルチサーバーでの導入は禁止
 マルチサーバーで用いた場合使用者はBAN措置などの著しい不利益を受ける可能性があります
 
 # English
 I am beginner for github and java  
+
+You are solely responsible for any damage arising from the use or consideration of using this MOD.
+I do not compensate
+Not responsible
+Self-responsibility
 
 This will add a multi-model to Minecraft's Little Maid Mod
 Slime girl.
