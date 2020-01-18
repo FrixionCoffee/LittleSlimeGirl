@@ -1,6 +1,8 @@
 # LittleSlimeGirl
 
 # Japanese
+私はgithubとjavaの初心者です
+
 これにより、MinecraftのLittle Maid Modにマルチモデルが追加されます
 スライムガール
 
@@ -19,6 +21,7 @@ Minecraftサーバーを導入しないでください！
 マルチサーバーで用いた場合使用者はBAN措置などの著しい不利益を受ける可能性があります
 
 # English
+I am beginner for github and java  
 
 This will add a multi-model to Minecraft's Little Maid Mod
 Slime girl.
