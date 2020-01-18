@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "little_slime_girl_addon:items/tool/slime_sword"
+  }
+}
